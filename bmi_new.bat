@@ -1,4 +1,5 @@
 @echo off
+type nul > bmi.txt
 
 :start
 
